@@ -5,5 +5,5 @@
 
 1 -> Basic Structure of a C   Program  ||||| -) Done;
 
-2 -> Run Your First Code
-3 -> Data Type and Variables
+2 -> Run Your First Code      Program  ||||| -) Done;
+
