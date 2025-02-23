@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("alksdjflksdf");
+    
     
     return 0;
 }
