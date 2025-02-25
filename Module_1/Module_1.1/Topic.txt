@@ -1,9 +1,8 @@
 # Author: Al Kayes Rifat
 # Created on: 22 Feb 2025
-# Repository: https://github.com/alkayesrifat/Introduction-to-C-Programming-Language-Course/tree/main/Module_1
 
 
 1 -> Basic Structure of a C   Program  ||||| -) Done;
 
-2 -> Run Your First Code
-3 -> Data Type and Variables
+2 -> Run Your First Code      Program  ||||| -) Done;
+
