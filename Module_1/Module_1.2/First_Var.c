@@ -13,6 +13,7 @@ int main(){
     char grade2 = 'b';
 
     char graded ;
+    
 
     graded = 'F';
 
