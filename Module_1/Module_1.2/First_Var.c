@@ -1,7 +1,14 @@
+/**
+ * All Praise to Allah
+ * ---------------------
+ * Author: Al Kayes Rifat
+ * Created: 2025-03-05   07:39:27
+ * Source: 
+ */
+
 #include <stdio.h>
 
-int main(){
-
+int main() {
     int dadarage = 50;
 
     int dadarboyos ;
@@ -16,7 +23,6 @@ int main(){
     
 
     graded = 'F';
-
 
 
     return 0;
