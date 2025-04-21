@@ -1,7 +1,0 @@
-// Module 1.1 : ভেরিয়েবল এবং ডেটা টাইপ
-
-1 / Data Type  -> clear
-
-2 / Variable -> clear
-
-3 / format specifier ->clear

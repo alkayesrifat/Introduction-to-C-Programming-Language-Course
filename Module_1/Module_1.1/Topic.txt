@@ -1,8 +1,0 @@
-# Author: Al Kayes Rifat
-# Created on: 22 Feb 2025
-
-
-1 -> Basic Structure of a C   Program  ||||| -) Done;
-
-2 -> Run Your First Code      Program  ||||| -) Done;
-
